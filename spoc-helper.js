@@ -3,7 +3,7 @@
 // @namespace    Spoc Helper
 // @version      1.0.0
 // @description  快速完成国家安全系列课程。刷课有风险，请自行承担。
-// @license      MIT
+// @license      GPL-3.0-or-later
 // @author       SingleDog
 // @match        https://spoc.buaa.edu.cn/spoc/moocxsxx/queryAllZjByKcdm.do
 // @grant        none
