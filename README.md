@@ -31,4 +31,4 @@
 
 网页的源码里是有观看时长统计的函数的，但是没有调用，目前尚不清楚是否会在服务器端统计。
 
-如果您因使用本脚本收到了任何形式的处罚，请**立刻**[联系我](singledog957@gmail.com)或者在(这里)[https://github.com/singledog957/Spoc-Helper/issues]提issue，感谢您为广大 BUAAer 做出的贡献。
+如果您因使用本脚本收到了任何形式的处罚，请**立刻**[联系我](singledog957@gmail.com)或者在[这里](https://github.com/singledog957/Spoc-Helper/issues)提issue，感谢您为广大 BUAAer 做出的贡献。
