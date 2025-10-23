@@ -1,5 +1,9 @@
 # BUAA-Spoc-Helper
 
+# Outdated！
+
+spoc已更新，脚本已经失效。
+
 > 刷课有风险，请自行承担。
 
 一个快速完成 BUAA spoc 国家安全 系列视频的脚本。
